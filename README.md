@@ -1,2 +1,2 @@
-what-is-devops
+What is DevOps?
 ==============
