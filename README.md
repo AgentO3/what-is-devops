@@ -3,7 +3,7 @@ What is DevOpsCV?
 
 - Intro
   - Thanks for coming!
-  - Special thanks to COS!
+  - Thanks to COS!
   - Shoutout to VividCortex!
 
 - Why do I care about DevOps?
