@@ -15,7 +15,7 @@ What is DevOpsCV?
   - March 2012: Startup Weekend Charlottesville
   - 2013: Joined VividCortex
 
-- Topics to explore DevOps?
+- DevOps topics to explore?
   - The Culture
     - Enacting org change.
     - What is DevOps at your org?
