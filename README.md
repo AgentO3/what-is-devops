@@ -19,7 +19,7 @@ What is DevOpsCV?
   - The Culture
     - Enacting org change.
     - What is DevOps at your org?
-    - DevOps success or fail
+    - DevOps success or fail.
 
   - The Tools
     - Config management
