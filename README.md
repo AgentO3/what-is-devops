@@ -1,4 +1,5 @@
 - What is DevOps?
+- A Little History
 - DevOps Culture
 - DevOps Tools
 - Hiring DevOps
