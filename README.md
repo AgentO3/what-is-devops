@@ -1,28 +1,39 @@
 - What is DevOps?
+  - It's Not
+    - Tools, Job Title
   - IT Cultural Movement
   - Empathy Between Dev and Ops
 - The Short History Of DevOps
 - DevOps Culture
-  - Agile System Admin
+  - Agile & Lean Applied To Ops
   - Ops Should Not Be A Blocker
     - Codify Your Knowledge
-  - Empower Encourage Selfservice
-  - Slight Tool Obsession
-- DevOps Tools
-  - Configuration As Code
-  - Metrics Aggregation
-  - Infrastructure As Code
-  - Continuous Delivery
-  - Virtualization
-    - Vagrant/VirtualBox
-    - Containerization/Docker
+  - Empowering Devs With Ops
+- You Can't Install DevOps
+  - DevOps is A Culture Obsessed With Tools
+  - DevOps Tools
+    - Configuration As Code
+      - Puppet, Chef, Ansible
+    - Metrics Aggregation
+      - Logstash/Kibana, Loggly, Graphite
+    - Infrastructure As Code
+      - Cloudformation, Terraform
+    - Continuous Delivery
+      - Jenkins
+    - Virtualization
+      - Vagrant/VirtualBox
+      - Containerization/Docker
 - Hiring DevOps
+  - Don't Hire DevOps
   - Empathetic
     - Developers, Customers
   - Continuous Improvement
+    - Data Nut
   - Loves Automation
   - Likes To Write Code
-- DevOps In Action
+    - Was a developer
+  - Meaningful Work > Promotions
+- A Reasonably Plausible Scenario Of DevOps Culture In Action At VividCortex
   - Jim files issue in Intercom
   - Jim is missing data in graphs
   - John is on call and is alerted to the problem in HipChat
