@@ -7,29 +7,37 @@
   - Empathy Between Dev and Ops
   - & Beyond
     - The Customer
-    - The Business
+    - Sales
   - How?
     - Sharing, Communicating, Collaborating
   - Why?
     - To Be A Highly Effective IT Organization
     - Respond Quickly To Customers Needs
+    - To Save Marrages
+      - Ops Is Not The Fire Department
+        - Capacity planning
+        - Problem prevention
+      - Sysadmins != # of Servers
 
 - Intro
   - Developer @VividCortex
   - Helping Make Awesome
   - Home Brewing
+  - Specal Thanks
+    - Debrah & Neon Guild
 
 - DevOps Culture
   - Agile & Lean As Applied To Ops
-  - Ops Should Not Be A Blocker
+  - Ops Should Not The Blocker
     - Codify Your Knowledge
+    - Remove The Humans
   - Ops For Everyone
     - Empower Others
   - Building Bridges Not Silos
   - Mutual Interest in Learning & Growing
 
 - That's Nothing New!
-  - Your right!
+  - Your right!, & It's ok
   - "It's all been done before." - The Barenaked Ladies
   - IT & Programming is as driven by trend as the fashion industry is.
 
@@ -52,26 +60,31 @@
       - AWS, Digial Ocean, Cloud Hosting
 
 - Enacting Cultural Change
-  - Changing An Existing Culture Is Hard
   - Start Small
     - Automate a simple task
     - Apply to dev environment first
   - Measure Results
-    - Release in a week
+    - Release in a (day, week, month)
     - Time till problem diagnoses
     - Time till problem resolution
   - Be The Spokesperson
-  - Inlist Supporters
-
+  - Build A Community
+    - Start a
+      - Mailing list
+      - Book club
+      - Excuse to drink beer
+    
 - Hiring DevOps
-  - Don't Hire DevOps
+  - Don't Worry About DevOps Titles
   - Empathetic
-    - Developers, Customers
+    - Developers, Customers, Sales
   - Continuous Improvement
     - Data Nut
-  - Loves Automation
+    - Loves learning
+  - History of Automation
   - Likes To Write Code
-    - Was a developer
+    - A developer who was a sysadmin
+    - A sysadmin who was a developer
   - Meaningful Work > Promotions
 
 - A Reasonably Plausible Scenario Of DevOps In Action At VividCortex
@@ -95,4 +108,11 @@
   - John notifies Jim that their graphs are fixed.
   - Total time to resolution 15mins.
 
-- Conclusion
+- The End
+
+- Just Kidding
+  - Join DevOpsCV (I'm the organizer)
+  - First meetup Oct 8th
+    - Vince Rivellino - DevOps @RoomKey
+  - Nathen Harvey [Technical Community Manager at Chef] - TBA
+  - You! - TBA
