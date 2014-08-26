@@ -52,7 +52,7 @@
     - Configuration As Code
       - Puppet, Chef, Ansible
     - Metrics Aggregation
-      - Logstash/Kibana, Loggly, VividCortex
+      - Logstash/Kibana, Loggly, VividCortex (who put that there?)
     - Infrastructure As Code
       - Cloudformation, Terraform
     - Continuous Delivery
@@ -60,7 +60,9 @@
     - Virtualization
       - Vagrant/VirtualBox
       - Containerization/Docker
-      - AWS, Digial Ocean, Cloud Hosting
+      - AWS, Digial Ocean, Linode
+    - PaaS (Platform as a Service)
+      - Heroku, Google App Engine, Deis
 
 - Enacting Cultural Change
   - Start Small
