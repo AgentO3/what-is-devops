@@ -18,6 +18,7 @@
     - Respond Quickly To Buinsess Needs
     - Save Marrages
       - # of Servers != Sysadmins
+      - Nobody like being woken up at 3 am
     - Ops Is Not The Fire Department
       - Capacity planning
       - Problem prevention
@@ -100,31 +101,35 @@
   - Values Meaningful Work
 
 - A Reasonably Plausible Scenario Of DevOps In Action At VividCortex
-  - Jim files issue in Intercom
-  - Jim is missing data in graphs
-  - John is on call and is alerted to the problem in HipChat
+  - Jim (a customer) files issue in Intercom.
+  - Data is missing data in his graphs.
+  - John our Ops guy is on call and he is alerted to the problem in HipChat.
+  - He let's Jim know he is looking into the problem.
   - John impersonates Jim and verifies data is really missing
-  - John checks to see when last deploy of agents happened
-  - In HipChat runs ChatOps command `\last agents`
-  - Command shows the last deploy was not corroliated with Jims missing data
-  - John posts posts in HipChat and pings @here to see if anyone has deployed anything that might affect Jim's data.
-  - Ale says that he recently deployed a change to Kafka consumers around that time frame.
-  - John goes to Kibana and filters the log aggragation to logs from the Kafka consumer services.
-  - John starts a +Google hangout with Ale and reviews the logs together.
-  - Together they find an error in the log that is an error that he did not account for happening in producton.
+  - John checks to see when last deploy of agents happened.
+  - He runs the ChatOps command `/last agents`.
+  - John does see any corroliated with Jims missing data and the last deployment of agents to production.
+  - John posts in HipChat and pings @here "Did anyone deploy something recently to production? Jim is missing data in his graphs".
+  - Ale says "I recently deployed a change to Kafka consumers around that time frame".
+  - John says "Let hangout and work together to solve Jim's problem".
+  - John executes the command `/hangout backend ` to start a +Google Hangout and ping @Ale to join.
+  - John shares his screen and run `/kibana` command to get the Kibana log aggragation UI.
+  - Together they filter the logs down to only kafka consumer output logs and find the error.
   - They pair program and quickly resolve the bug in the code.
+  - Ale: "See what the problem is. That never happens in our staging server, I would never caught that in testing!"
   - Ale commits his code to GitHub and merges it into masters.
-  - Ale push the change to production with ChatOps command `/release agents` while John updates the customer, letting them know the issue should be fixed in a few mins.
-  - Thing notifies them that the deployment to production was successful.
+  - With the ChatOps command `/release agents` Ale pushes the fixed agent to production. 
+  - while this is happening John updates the customer, letting them know the issue should be fixed in a few mins.
+  - Thing (our hubot) notifies them that the deployment to production was successful.
   - They both check the graphs in Jim's account and see that the issue is fixed.
   - John notifies Jim that their graphs are fixed.
   - Total time to resolution 15mins.
 
 - The End
 
-- Excited now? Want more?
+- Doesn't have to be!
   - Join DevOpsCV (I'm the organizer)
   - First meetup Oct 8th
     - Vince Rivellino - DevOps @RoomKey
-  - Nathen Harvey [Technical Community Manager at Chef] - TBA
+  - Nathen Harvey (Technical Community Manager at Chef) - TBA
   - You! - TBA
