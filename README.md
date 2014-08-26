@@ -75,6 +75,7 @@
     - Release in a (day, week, month)
     - Time till problem diagnoses
     - Time till problem resolution
+  - Learn From Mistakes
   - Be The Spokesperson
     - Cite real world examples
   - Build A Community
