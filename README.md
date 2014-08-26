@@ -110,7 +110,7 @@
 
 - The End
 
-- Just Kidding
+- Excited now? Want more?
   - Join DevOpsCV (I'm the organizer)
   - First meetup Oct 8th
     - Vince Rivellino - DevOps @RoomKey
