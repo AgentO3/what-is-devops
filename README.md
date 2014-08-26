@@ -66,8 +66,6 @@
       - Heroku, Google App Engine, Deis
 
 - Enacting Cultural Change
-  - Aligning Incentives Across The Organization
-    - Don't reward on ticket time
   - Start Small
     - Automate a simple task
     - Apply to dev environment first
@@ -83,6 +81,9 @@
       - Mailing list
       - Book club
       - Excuse to drink beer
+  - Aligning Incentives
+    - Don't reward dev for shipping code
+    - Don't reward ops for closing tickets
     
 - Hiring DevOps
   - Don't Worry About DevOps Titles
