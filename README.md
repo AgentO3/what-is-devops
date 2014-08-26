@@ -34,6 +34,7 @@
   - Ops Should Not The Blocker
     - Codify Your Knowledge
     - Remove The Humans
+      - Don't worry robots won't replace you
   - Ops For Everyone
     - Empower Others
   - Building Bridges Not Silos
@@ -65,6 +66,8 @@
       - Heroku, Google App Engine, Deis
 
 - Enacting Cultural Change
+  - Aligning Incentives Across The Organization
+    - Don't reward on ticket time
   - Start Small
     - Automate a simple task
     - Apply to dev environment first
@@ -73,6 +76,7 @@
     - Time till problem diagnoses
     - Time till problem resolution
   - Be The Spokesperson
+    - Cite real world examples
   - Build A Community
     - Start a
       - Mailing list
