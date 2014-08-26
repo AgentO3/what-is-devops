@@ -1,21 +1,47 @@
 - What is DevOps?
-  - It's Not
-    - Tools, Job Title
-  - IT Cultural Movement
+  - A Job Title?
+    - A recruiter would like you to think that.
+  - A Tool?
+    - A vendor would like you to think that.
+  - It's An IT Cultural Movement
   - Empathy Between Dev and Ops
-- The Short History Of DevOps
+  - & Beyond
+    - The Customer
+    - The Business
+  - How?
+    - Sharing, Communicating, Collaborating
+  - Why?
+    - To Be A Highly Effective IT Organization
+    - Respond Quickly To Customers Needs
+
+- Intro
+  - Developer @VividCortex
+  - Helping Make Awesome
+  - Home Brewing
+
 - DevOps Culture
-  - Agile & Lean Applied To Ops
+  - Agile & Lean As Applied To Ops
   - Ops Should Not Be A Blocker
     - Codify Your Knowledge
-  - Empowering Devs With Ops
+  - Ops For Everyone
+    - Empower Others
+  - Building Bridges Not Silos
+  - Mutual Interest in Learning & Growing
+
+- That's Nothing New!
+  - Your right!
+  - "It's all been done before." - The Barenaked Ladies
+  - IT & Programming is as driven by trend as the fashion industry is.
+
+- The Short History Of DevOps
+
 - You Can't Install DevOps
-  - DevOps is A Culture Obsessed With Tools
-  - DevOps Tools
+  - DevOps is A Culture With A Tool Obession
+  - Tools of The Trade
     - Configuration As Code
       - Puppet, Chef, Ansible
     - Metrics Aggregation
-      - Logstash/Kibana, Loggly, Graphite
+      - Logstash/Kibana, Loggly, VividCortex
     - Infrastructure As Code
       - Cloudformation, Terraform
     - Continuous Delivery
@@ -23,6 +49,20 @@
     - Virtualization
       - Vagrant/VirtualBox
       - Containerization/Docker
+      - AWS, Digial Ocean, Cloud Hosting
+
+- Enacting Cultural Change
+  - Changing An Existing Culture Is Hard
+  - Start Small
+    - Automate a simple task
+    - Apply to dev environment first
+  - Measure Results
+    - Release in a week
+    - Time till problem diagnoses
+    - Time till problem resolution
+  - Be The Spokesperson
+  - Inlist Supporters
+
 - Hiring DevOps
   - Don't Hire DevOps
   - Empathetic
@@ -33,7 +73,8 @@
   - Likes To Write Code
     - Was a developer
   - Meaningful Work > Promotions
-- A Reasonably Plausible Scenario Of DevOps Culture In Action At VividCortex
+
+- A Reasonably Plausible Scenario Of DevOps In Action At VividCortex
   - Jim files issue in Intercom
   - Jim is missing data in graphs
   - John is on call and is alerted to the problem in HipChat
@@ -53,3 +94,5 @@
   - They both check the graphs in Jim's account and see that the issue is fixed.
   - John notifies Jim that their graphs are fixed.
   - Total time to resolution 15mins.
+
+- Conclusion
