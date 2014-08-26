@@ -81,8 +81,9 @@
     
 - Hiring DevOps
   - Don't Worry About DevOps Titles
-  - Empathetic
-    - Developers, Customers, Sales
+  - Effective Communicator
+    - Empathetic
+      - Developers, Customers, Sales
   - Continuous Improvement
     - Data Nut
     - Loves learning
@@ -90,7 +91,7 @@
   - Likes To Write Code
     - A developer who was a sysadmin
     - A sysadmin who was a developer
-  - Meaningful Work > Promotions
+  - Values Meaningful Work
 
 - A Reasonably Plausible Scenario Of DevOps In Action At VividCortex
   - Jim files issue in Intercom
