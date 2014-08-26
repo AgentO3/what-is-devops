@@ -9,17 +9,17 @@
   - Empathy Between Dev and Ops
   - & Beyond
     - The Customer
-    - Sales
+    - Sales & Business
   - How?
     - Sharing, Communicating, Collaborating
   - Why?
     - To Be A Highly Effective IT Organization
     - Respond Quickly To Customers Needs
-    - To Save Marrages
+    - Save Marrages
       - Ops Is Not The Fire Department
         - Capacity planning
         - Problem prevention
-      - Sysadmins != # of Servers
+      - # of Servers != Sysadmins
 
 - Intro
   - Developer @VividCortex
