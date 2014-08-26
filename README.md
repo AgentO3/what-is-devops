@@ -3,6 +3,8 @@
     - A recruiter would like you to think that.
   - A Tool?
     - A vendor would like you to think that.
+  - A Team?
+    - A corporation would like you to think that.
   - It's An IT Cultural Movement
   - Empathy Between Dev and Ops
   - & Beyond
