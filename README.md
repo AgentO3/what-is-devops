@@ -15,14 +15,15 @@
   - Why?
     - To Be A Highly Effective IT Organization
     - Respond Quickly To Customers Needs
+    - Respond Quickly To Buinsess Needs
     - Save Marrages
-      - Ops Is Not The Fire Department
-        - Capacity planning
-        - Problem prevention
       - # of Servers != Sysadmins
+    - Ops Is Not The Fire Department
+      - Capacity planning
+      - Problem prevention
 
 - Intro
-  - Developer @VividCortex
+  - Developer doing ops @VividCortex
   - Helping Make Awesome
   - Home Brewing
   - Specal Thanks
