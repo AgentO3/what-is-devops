@@ -52,4 +52,11 @@
     - [What Is Devops](http://www.amazon.com/What-DevOps-Mike-Loukides-ebook/dp/B0084HJB56/ref=sr_1_1?ie=UTF8&qid=1409194108&sr=8-1&keywords=devops)
     - [Building a DevOps Culture](http://www.amazon.com/Building-DevOps-Culture-Mandi-Walls-ebook/dp/B00CBM1WFC/ref=sr_1_2?ie=UTF8&qid=1409194108&sr=8-2&keywords=devops)
 
+- Testing Stuff
+  - https://github.com/angular/protractor
+  - http://jasmine.github.io/
+  - http://golang.org/pkg/testing/
+  - http://docs.ansible.com/test_strategies.html
+  - http://serverspec.org/
+
   
