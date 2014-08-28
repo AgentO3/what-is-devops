@@ -4,7 +4,7 @@
   - http://en.wikipedia.org/wiki/DevOps
   - https://www.youtube.com/watch?v=o7-IuYS0iSE
 
-- DevOps culture
+- DevOps Culture
   - http://www.oreilly.com/webops-perf/free/building-devops-culture.csp
   - http://www.infoq.com/news/2012/10/introduce-devops
   - http://www.wired.com/2013/06/building-a-healthy-devops-culture/
