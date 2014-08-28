@@ -63,7 +63,7 @@ Sales & Business
 
 # Special Thanks
 
-Deborah & Neon Guild
+Debra & Neon Guild
 
 !
 
